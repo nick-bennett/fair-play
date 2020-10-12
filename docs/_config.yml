@@ -9,3 +9,5 @@ heading_navigator:
   enabled: true
 titles_from_headings:
   enabled: false
+
+theme: jekyll-theme-slate
