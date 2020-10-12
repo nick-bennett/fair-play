@@ -1,0 +1,11 @@
+remote_theme: ddc-java/ddc-day
+title: Fair Play
+description: "Shuffling and selecting students or team members for individual or group-based activities"
+repository_link:
+  enabled: false
+page_navigator:
+  enabled: false
+heading_navigator:
+  enabled: true
+titles_from_headings:
+  enabled: false
