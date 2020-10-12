@@ -63,3 +63,4 @@ The fundamental objective, in developing this app, is to provide a tool for use 
 * Export of selections and group assignments to Android messaging or e-mail.
 
 * Export (to SVG files) of seating diagrams with group assignments highlighted using different colors.
+
